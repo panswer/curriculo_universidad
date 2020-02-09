@@ -1,0 +1,20 @@
+.icons {
+    margin: 0px;
+    padding: 0;
+}
+
+.navbar {
+    justify-content: left;
+}
+
+.navbar-brand {
+    background-color: white;
+    margin: 0px;
+    padding: 0px 10px 0px 0px;
+    border-radius: 5px;
+    justify-content: center;
+}
+
+.navbar-brand:hover {
+    background-color: rgba(100, 100, 100, 0.5);
+}
